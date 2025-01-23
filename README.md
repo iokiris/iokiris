@@ -52,12 +52,7 @@
 ---
 
 
-<div style="display: flex; gap: 30px; flex-wrap: nowrap; justify-content: center; margin: 20px 0;">
-  <a href="https://github.com/iokiris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iokiris&show_icons=true&theme=radical&hide_border=true" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/iokiris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</a>
-</div>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=iokiris&theme=radical&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=iokiris&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=radical&hide_border=true"></td></tr></tbody></table>
