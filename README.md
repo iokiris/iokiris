@@ -14,7 +14,6 @@
 
 
 
----
 
 ## 🛠️ Tech Stack
 
@@ -53,22 +52,12 @@
 ---
 
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
-  <div style="width: 460px; height: 200px; overflow: hidden;">
-    <a href="https://github.com/iokiris">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=iokiris&show_icons=true&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff" 
-        alt="Stats"
-      />
-    </a>
-  </div>
-  
-  <div style="height: 200px; overflow: hidden;">
-    <a href="https://github.com/iokiris">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&text_color=ffffff&langs_count=8" 
-        alt="Top Languages"
-      />
-    </a>
-  </div>
+<div style="display: flex; gap: 30px; flex-wrap: nowrap; justify-content: center; margin: 20px 0;">
+  <a href="https://github.com/iokiris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iokiris&show_icons=true&theme=radical&hide_border=true" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/iokiris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</a>
 </div>
