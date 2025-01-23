@@ -66,7 +66,6 @@
   <div style="height: 200px; overflow: hidden;">
     <a href="https://github.com/iokiris">
       <img 
-
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&text_color=ffffff&langs_count=8" 
         alt="Top Languages"
       />
