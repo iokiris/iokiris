@@ -12,6 +12,7 @@
 
 
 **🔨 Mastering Key Technologie:**
+
 → **Python** (Django, FastAPI, Celery)  
 → **Go** (Gin, Echo, Chi)  
 → **Database Architecture** (PostgreSQL, ClickHouse, Redis)  
