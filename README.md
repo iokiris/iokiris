@@ -1,5 +1,26 @@
-# 👋 Hi, I'm iokiris
+<strong style="
+  color: #cb3776;
+  text-shadow: 0 0 10px #cb3776, 
+               0 0 20px #cb3776aa, 
+               0 0 30px #cb377655;
+  font-weight: 800;
+  animation: neonGlow 1.5s ease-in-out infinite alternate;
+">👋 Hi, I'm iokiris</strong>
 
+<style>
+@keyframes neonGlow {
+  from {
+    text-shadow: 0 0 5px #cb3776,
+                 0 0 10px #cb3776aa,
+                 0 0 15px #cb377655;
+  }
+  to {
+    text-shadow: 0 0 10px #cb3776,
+                 0 0 20px #cb3776cc,
+                 0 0 30px #cb3776aa;
+  }
+}
+  
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=2800&pause=1000&color=0891B2&center=true&vCenter=true&width=440&height=45&lines=Backend+Architect+%7C+Go+%26+Python+Specialist;Systems+Scalability+%7C+Database+Design;API+Development+%7C+Cloud+Solutions" alt="Animated Header" />
 </div>
