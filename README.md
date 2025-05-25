@@ -61,7 +61,8 @@
 ---
 
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=iokiris&theme=radical&show_icons=true&count_private=true"><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=iokiris&theme=dark"></td><td width="50%" align="center">
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=radical&hide_border=true&v=1"></td></tr></tbody></table>
+<table border="none"><tbody><tr border="none"><td width="40%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=iokiris&theme=bear&show_icons=true&count_private=true"><br>
+<img src="https://via.placeholder.com/1x20/ffffff/ffffff?text=+" width="1" height="20" />
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=iokiris&theme=bear"></td><td width="50%" align="center">
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=bear&hide_border=true&v=1"></td></tr></tbody></table>
