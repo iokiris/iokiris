@@ -3,7 +3,7 @@
   text-shadow: 0 0 10px #cb3776, 
                0 0 20px #cb3776aa, 
                0 0 30px #cb377655;
-  font-weight: 800;
+  font-weight: 800; 
 ">👋 Hi, I'm iokiris</strong>
   
 <div align="center">
