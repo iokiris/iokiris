@@ -1,11 +1,22 @@
-<pre align="center"><b>iokiris@github:~$ cat README.md</b></pre>
-<pre align="center">> Initializing environment...</pre>
-<pre align="center">> Loading modules...</pre>
-<pre align="center">> Done.</pre>
+<pre align="center"><b>iokiris@blackbox:~$ git push origin main</b>
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (8/8), 1.2 KiB | 1.2 MiB/s, done.
+To github.com:iokiris/iokiris.git
+   7f3d9c1..b1e2d44  main -> main
+
+> Deploying profile... done
+> Launching README... ready
+</pre>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=0891B2&center=true&vCenter=true&width=440&height=45&lines=Software+%26+Backend+engineer;Go+%2F+Python+%2F+Infrastructure" alt="Animated Header" />
 </div>
+
+<br>
 
 <div align="center">
   <table border="none">
@@ -23,4 +34,3 @@
     </tbody>
   </table>
 </div>
-
