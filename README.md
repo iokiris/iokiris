@@ -7,7 +7,8 @@
 ">👋 Hi, I'm iokiris</strong>
   
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=2800&pause=1000&color=0891B2&center=true&vCenter=true&width=440&height=45&lines=Backend+Architect+%7C+Go+%26+Python+Specialist;Systems+Scalability+%7C+Database+Design;API+Development+%7C+Cloud+Solutions" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=0891B2&center=true&vCenter=true&width=440&height=45&lines=Software+%26+Backend+engineer;Go+%2F+Python+%2F+Infrastructure" alt="Animated Header" />
+
 </div>
 
 
@@ -16,4 +17,4 @@
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=iokiris&theme=bear&show_icons=true&count_private=true"><br>
 <img src="https://via.placeholder.com/1x20/ffffff/ffffff?text=+" width="1" height="20" />
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=iokiris&theme=bear"></td><td width="50%" align="center">
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=bear&hide_border=true&v=4"></td></tr></tbody></table>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iokiris&layout=compact&theme=bear&hide_border=true&v=5"></td></tr></tbody></table>
