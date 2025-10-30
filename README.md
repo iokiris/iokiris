@@ -1,15 +1,11 @@
-<pre align="center"><b>iokiris@blackbox:~$ git push origin main</b>
-Enumerating objects: 8, done.
-Counting objects: 100% (8/8), done.
-Compressing objects: 100% (4/4), done.
-Writing objects: 100% (8/8), 1.2 KiB | 1.2 MiB/s, done.
-To github.com:iokiris/iokiris.git
-   7f3d9c1..b1e2d44  main -> main
+<pre align="center"><b>iokiris@github:~$ cat README.md</b>
+Reading objects: 100% (12/12), done.
+Resolving deltas: 100% (4/4), done.
+Verifying integrity... OK
 
-> Deploying profile... done
-> Launching README... ready
+> Initializing profile build
+> Rendering README... done
 </pre>
-
 
 
 <div align="center">
